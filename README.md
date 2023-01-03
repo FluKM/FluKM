@@ -1,3 +1,1 @@
-- 👋 Hi, I’m FluKM
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning basic programming languages
+As a BTech student with a strong foundation in the C programming language, I am always looking for opportunities to learn and grow as a developer. I am excited to contribute to open source projects on GitHub and collaborate with others to solve problems and create innovative solutions. In my free time, I enjoy staying up-to-date with the latest tech trends and exploring new programming languages. I am always open to connecting with others in the tech community and look forward to making meaningful contributions as a developer.
